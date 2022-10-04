@@ -1,4 +1,4 @@
 After cleaning the iris dataset and split it into training and test set 
-I applied Predicting Using Unsupervised using k-means algorithm to predict the optimum number of clusters and represent it .
+I applied k-means algorithm to predict the optimum number of clusters and represent it .
 I chose 3 cluster because of the elbow method 
 this is task2 at the sparks foundation internship.
